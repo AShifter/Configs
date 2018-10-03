@@ -1,0 +1,20 @@
+"*":
+  "atom-discord":
+    behaviour: {}
+  core:
+    disabledPackages: [
+      "wrap-guide"
+    ]
+    telemetryConsent: "limited"
+  "exception-reporting":
+    userId: "242972c9-8f7f-4086-9613-c9688766fd10"
+  minimap: {}
+  "platformio-ide-terminal":
+    style:
+      theme: "one-dark"
+  "title-bar-replacer":
+    colours: {}
+    configuration: {}
+    general: {}
+  welcome:
+    showOnStartup: false
